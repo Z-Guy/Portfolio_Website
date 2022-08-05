@@ -59,13 +59,13 @@
     border: 1px solid #008000;
 }
 
-/* services section css */
+/* skills section css */
 .skillsText.card {
-    height: 280px;
+    height: 90px;
     cursor: default;
   }
 .card-skill-title {
-    text-align: center;
+    text-align: left;
 }
 
 /* social media icons styling */
